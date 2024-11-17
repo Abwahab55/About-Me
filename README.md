@@ -1,2 +1,2 @@
 # About-Me
-Application Engineer/Electronics with 3+ years of experience in circuit design, microcontroller programming, Hardware testing, PCB layout design, IC application 
+Application Engineer with over 3 years of experience specializing in electronics and embedded systems. Proficient in circuit design, microcontroller programming, hardware testing, and PCB layout design. Expertise in IC application, troubleshooting, and optimizing hardware solutions for diverse applications. Strong problem-solving skills combined with a focus on delivering reliable and efficient designs, with hands-on experience collaborating with cross-functional teams to meet project goals
